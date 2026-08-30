@@ -1,1 +1,1 @@
-Here in this repository I'd be discussing my understanding on AIML through various google collaboratory sheets. :)
+24-week student-training program on artificial intelligence/machine learning, approved by AICTE, is conducted at i-hub data by IIIT Hyderabad.
